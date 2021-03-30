@@ -16,7 +16,7 @@ cd js-snake-gui
 
 ### Author
 
-- Taseen Tanvir
+- <a href='https://tanvir.io'>Taseen Tanvir</a>
 
 ### License
 
