@@ -1,4 +1,4 @@
-## js-snake-gui
+## JS-Snake-GUI
 
 ## Instructions
 
